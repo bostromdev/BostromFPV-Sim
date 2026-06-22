@@ -1,7 +1,7 @@
 # Game License and Third-Party Notices
 
 ## Part 1: Game License
-**Copyright (c) 2026 [Your Name/Studio Name]**
+**Copyright (c) 2026 [Christopher Bostrom/BostromFPV]**
 
 **1. General Use**
 You are granted a non-exclusive, non-transferable, revocable license to download, install, and play this game for personal use. You are also free to record and stream gameplay footage.
